@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MavenDemo04_MiShop:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>MavenDemo04_MiShop</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="MavenDemo04_MiShop-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="MavenDemo04_MiShop:war exploded" />
+    </root>
+  </artifact>
+</component>

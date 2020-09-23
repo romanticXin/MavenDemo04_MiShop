@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="up" />
+        <module name="untitled1" />
+        <module name="dadaad" />
+        <module name="down" />
+        <module name="upload2" />
+        <module name="untitled" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dadaad" target="1.5" />
+      <module name="down" target="1.5" />
+      <module name="MavenDemo04_MiShop" target="1.5" />
+      <module name="untitled" target="1.5" />
+      <module name="untitled1" target="1.7" />
+      <module name="up" target="1.5" />
+      <module name="upload" target="1.5" />
+      <module name="upload2" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

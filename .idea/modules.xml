@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MavenDemo04_MiShop.iml" filepath="$PROJECT_DIR$/MavenDemo04_MiShop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dadaad/dadaad.iml" filepath="$PROJECT_DIR$/../dadaad/dadaad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../down/down.iml" filepath="$PROJECT_DIR$/../down/down.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../upload/untitled/untitled.iml" filepath="$PROJECT_DIR$/../upload/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../untitled1/untitled1.iml" filepath="$PROJECT_DIR$/../untitled1/untitled1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../up/up.iml" filepath="$PROJECT_DIR$/../up/up.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../upload/upload.iml" filepath="$PROJECT_DIR$/../upload/upload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../upload2/upload2.iml" filepath="$PROJECT_DIR$/../upload2/upload2.iml" />
+    </modules>
+  </component>
+</project>
